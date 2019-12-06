@@ -1,0 +1,5 @@
+This is a comparison of the two approaches in Number theory to compute modular inverses.
+  efftest1 is an implementation of the Euler's Theorem to find modular inverse, which is a generalization of the Fermat's Little Theorem.
+  efftest2 is an implementation to compute the modular inverse using extended Euclidean Algorithm.
+  
+  We can observe that the latter approach is significantly faster than the former.
